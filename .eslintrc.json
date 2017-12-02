@@ -13,5 +13,10 @@
   "env": {
     "browser": true,
     "jest": true
+  },
+  "settings": {
+    "polyfills": [
+      "fetch"
+    ]
   }
 }
