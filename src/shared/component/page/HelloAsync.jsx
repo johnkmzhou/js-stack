@@ -2,8 +2,8 @@
 
 import React from 'react';
 
-import HelloAsyncButton from '../../container/hello-async-button';
-import MessageAsync from '../../container/message-async';
+import HelloAsyncButton from '../../container/HelloAsyncButton';
+import MessageAsync from '../../container/MessageAsync';
 
 const HelloAsyncPage = () => (
   <div>

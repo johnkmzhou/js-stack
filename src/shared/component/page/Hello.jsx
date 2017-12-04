@@ -2,8 +2,8 @@
 
 import React from 'react';
 
-import HelloButton from '../../container/hello-button';
-import Message from '../../container/message';
+import HelloButton from '../../container/HelloButton';
+import Message from '../../container/Message';
 
 const HelloPage = () => (
   <div>
