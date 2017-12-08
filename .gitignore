@@ -1,6 +1,7 @@
 .DS_Store
 /lib/
 /dist/
+/.env
 
 # Logs
 logs
